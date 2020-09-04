@@ -1,4 +1,4 @@
-# extensiones-visual-studio-code
+# Extensiones Visual Studio Code
 
 # Tema:
 * [Monokai Night](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-monokai-night)
