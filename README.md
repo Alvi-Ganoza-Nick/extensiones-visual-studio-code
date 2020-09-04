@@ -9,8 +9,6 @@
 
 * [Visual Studio Emmet 2013](https://marketplace.visualstudio.com/items?itemName=CliffDing.VisualStudioEmmet2013)
 
-* [Activitus Bar](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar)
-
 * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
 * [Bootstrap 4, FontAwesome 5](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
@@ -24,6 +22,8 @@
 * [JavaScript (ES6)](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
 
 * [Vue.js Code Snippets](https://marketplace.visualstudio.com/items?itemName=SridharNathani.VueSnippetPack-SN)
+
+* [Vue.js Pack](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.VuejsPack)
 
 * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
