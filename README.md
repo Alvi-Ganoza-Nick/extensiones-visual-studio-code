@@ -7,8 +7,6 @@
 
 * [AB HTML Formatter](https://marketplace.visualstudio.com/items?itemName=zovorap.ab-html-formatter)
 
-* [Visual Studio Emmet 2013](https://marketplace.visualstudio.com/items?itemName=CliffDing.VisualStudioEmmet2013)
-
 * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
 * [Bootstrap 4, FontAwesome 5](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
@@ -30,8 +28,6 @@
 * [Prettier - Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 * [PWA Tools](https://marketplace.visualstudio.com/items?itemName=johnpapa.pwa-tools)
-
-* [Terminal](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal)
 
 * [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 
