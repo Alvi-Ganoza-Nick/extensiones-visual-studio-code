@@ -19,10 +19,6 @@
 
 * [JavaScript (ES6)](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
 
-* [Vue.js Code Snippets](https://marketplace.visualstudio.com/items?itemName=SridharNathani.VueSnippetPack-SN)
-
-* [Vue.js Pack](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.VuejsPack)
-
 * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
 * [Prettier - Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
